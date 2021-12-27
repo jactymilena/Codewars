@@ -3,7 +3,7 @@
 ## 5kyu
 | name                     | python                                              | C++                                                 |
 | :----------------------- | :-------------------------------------------------: | :-------------------------------------------------: | 
-| Mouving zeros to the end | [✔️](./5kyu/python/mouving_zeros_to_the_end.py)     | []()                                               | 
+| Moving zeros to the end | [✔️](./5kyu/python/moving_zeros_to_the_end.py)     | []()                                               | 
 
 ## 6kyu
 | name                     | python                                              | C++                                                 |
