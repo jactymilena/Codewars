@@ -4,6 +4,7 @@
 | name                     | python                                              | C++                                                 |
 | :----------------------- | :-------------------------------------------------: | :-------------------------------------------------: | 
 | Moving zeros to the end  | [✔️](./5kyu/python/moving_zeros_to_the_end.py)     | []()                                                | 
+| Simple Pig Latin         | [✔️](./5kyu/python/simple_pig_latin.py)            | []()                                                | 
 
 ## 6kyu
 | name                            | python                                              | C++                                                   |
