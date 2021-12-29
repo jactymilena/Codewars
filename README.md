@@ -6,6 +6,8 @@
 | Moving zeros to the end  | [✔️](./5kyu/python/moving_zeros_to_the_end.py)     | []()                                                | 
 | Simple Pig Latin         | [✔️](./5kyu/python/simple_pig_latin.py)            | []()                                                | 
 | Factorial Digits         | [✔️](./5kyu/python/factorial_digits.py)            | []()                                                | 
+| Valid Parentheses        | [✔️](./5kyu/python/valid_parentheses.py)           | []()                                                | 
+
 
 
 ## 6kyu
