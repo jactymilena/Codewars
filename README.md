@@ -1,14 +1,16 @@
 # Codewars Challenges
 
 ## 5kyu
-| name                       | python                                              | C++                                                 |
-| :------------------------- | :-------------------------------------------------: | :-------------------------------------------------: | 
-| Moving zeros to the end    | [✔️](./5kyu/python/moving_zeros_to_the_end.py)     | []()                                                | 
-| Simple Pig Latin           | [✔️](./5kyu/python/simple_pig_latin.py)            | []()                                                | 
-| Factorial Digits           | [✔️](./5kyu/python/factorial_digits.py)            | []()                                                | 
-| Valid Parentheses          | [✔️](./5kyu/python/valid_parentheses.py)           | []()                                                | 
-| Calculating With Functions | [✔️](./5kyu/python/calculating_with_functions.py)  | []()                                                | 
+| name                          | python                                                | C++                                                 |
+| :---------------------------- | :---------------------------------------------------: | :-------------------------------------------------: | 
+| Moving zeros to the end       | [✔️](./5kyu/python/moving_zeros_to_the_end.py)       | []()                                                | 
+| Simple Pig Latin              | [✔️](./5kyu/python/simple_pig_latin.py)              | []()                                                | 
+| Factorial Digits              | [✔️](./5kyu/python/factorial_digits.py)              | []()                                                | 
+| Valid Parentheses             | [✔️](./5kyu/python/valid_parentheses.py)             | []()                                                | 
+| Calculating With Functions    | [✔️](./5kyu/python/calculating_with_functions.py)    | []()                                                | 
+| First non-repeating character | [✔️](./5kyu/python/first_non-repeating_character.py) | []()                                                | 
 
+first_non-repeating_character
 
 calculating_with_functions
 ## 6kyu

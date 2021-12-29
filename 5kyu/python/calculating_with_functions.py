@@ -2,7 +2,6 @@
 import operator
 
 def result(number, operation):
-
     ops = {
         '+' : operator.add,
         '-' : operator.sub,
